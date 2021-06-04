@@ -423,9 +423,6 @@ img {
 }
 /* Clients */
 
-.client-section .container {
-  padding-bottom: 94px;
-}
 .clients-list {
   display: flex;
   padding: 0;
@@ -566,7 +563,6 @@ img {
 .projects-entity {
   margin-top: 0;
   margin-bottom: 0;
-  padding-bottom: 20px;
   font-size: 16px;
   line-height: 1.87;
   color: var(--secondary-text-color);
@@ -580,12 +576,9 @@ img {
   padding-bottom: 60px;
   background-color: var(--secondary-background-color);
 }
-.footer-block {
-  display: flex;
+.footer-first-part {
+  margin-right: 70px;
 }
-/* .footer-bgc.container {
-  display: flex;
-} */
 .logo-footer {
   margin-bottom: 20px;
   font-family: Raleway;
@@ -634,7 +627,6 @@ img {
 .footer-icon-row {
   width: 206px;
   height: 80px;
-  margin: 0px 878px 100px 70px;
 }
 .footer-icon-list {
   display: flex;
